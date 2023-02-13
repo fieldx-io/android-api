@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Fieldxapi" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/purple_500</item>
+    </style>
+</resources>
